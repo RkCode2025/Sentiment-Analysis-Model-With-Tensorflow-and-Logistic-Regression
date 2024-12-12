@@ -14,7 +14,7 @@ To run this program locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis.git
+   git clone https://github.com/RkCode2025/Sentiment-Analysis-Model-With-Tensorflow-and-Logistic-Regression
    cd sentiment-analysis
    ```
 
